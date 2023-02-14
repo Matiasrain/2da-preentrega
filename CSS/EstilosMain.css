@@ -1,0 +1,230 @@
+body{
+    background-color: black;
+    
+}
+.proddestacados{
+    max-width: 100%;
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    
+}
+.card{
+    
+    margin: 25px ;
+    margin-left: 40px;
+}
+.titulo1{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin: 20px;
+   
+}
+.card-img-top2{
+    height: 300px;
+}
+.imgenvios{
+    text-align: center;
+}
+/*{
+    padding: 0px;
+    margin: 0px;
+}
+.home{
+display: flex;
+flex-wrap: wrap;
+}
+
+.encabezado{
+    border-style:double;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 2px;
+    height: 150px;
+    
+}
+header{
+    width: 100%;
+    height: 100%;
+
+}
+
+
+.encabezado2{
+    color: white;
+    display:flex;
+    margin: 5px 5px 5px 5px;
+}
+
+.buscador{
+ 
+ width: 400px;
+ height: 30px;
+ align-items: center;
+ margin-top: 25px;
+ margin-left: 15px;
+ margin-right: 25px;
+ margin-left: 25px;
+}
+.nav{
+    justify-content: space-around;
+    text-align: center;
+}
+.nav_item{
+    font-weight: 400;
+    border: 1px solid #fff;
+    margin-right: 0;
+    color:white;
+    background-color:black;
+    padding: 10px 20px;
+    margin: 5px 5px 5px 5px;
+    text-decoration: none;
+   
+}
+.nav_itema{
+    font-weight: 400;
+    border: 1px solid #fff;
+    color:white;
+    background-color:black;
+    padding: 10px 10px;
+    margin: 20px 25px 25px 25px;
+    text-decoration: none;
+    align-items: center;
+ background-image: linear-gradient(144deg,#AF40FF, #4e2f3d 50%,#646efa);
+ border: 0;
+ border-radius: 8px;
+ box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+ box-sizing: border-box;
+ color: #FFFFFF;
+ display: flex;
+ font-family: Phantomsans, sans-serif;
+ justify-content: center;
+ line-height: 1em;
+ transition: all .3s;
+}
+    
+   
+
+.nav_item:hover {
+    background-color: #c1c5e2;
+}
+.tienda{
+   
+    color: #ffffff;
+    margin-top: 20px;
+}
+.indmasc{
+    margin-right: 25px;
+    margin-left: 25px;
+    color: white;
+    margin-top: 20px;
+}
+
+   .input:focus, input:hover {
+    outline: none;
+    border-color: rgba(234,76,137,0.4);
+    background-color: #fff;
+    box-shadow: 0 0 0 4px rgb(234 76 137 / 10%);
+   }
+
+   
+   .proddestacados{
+    flex: 1;
+    min-width: 250px;
+    text-align: center;
+    height:500px;
+
+   }  
+  
+   .novedades{
+    flex: 1;
+    text-align: center;
+    height:500px;
+
+   }  
+.titulo1{
+    color: white;
+    text-align: center;
+    margin: 25px 25px;
+}
+   
+.card1{
+    display: inline-block;
+    --background: linear-gradient(to left, #f7ba2b 0%, #ea5358 100%);
+    width: 300px;
+ height: 354px;
+ padding: 5px;
+/*float:left;
+ border-radius: 1rem;
+ overflow: visible;
+ background: #f7ba2b;
+ background: var(--background);
+
+ z-index: 1;
+
+ margin: 5px 55px 5px 15px;
+ 
+}
+.card1 img{
+    width: 100%;
+    height: 100%;
+}
+
+
+   .card-info {
+    --color: gray;
+    background: var(--color);
+    color: var(--color);
+    /*display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    border-radius: .7rem;
+    
+   }
+   
+   .card1 .title {
+    font-weight: bold;
+    letter-spacing: .1em;
+    color: white;
+    text-align: center;
+    border-style: groove;
+    margin: 25px 25px;
+   }
+   
+   /*Hover
+   .card1:hover::after {
+    opacity: 0;
+   }
+ 
+   
+   .card1:hover .card-info {
+    color: #f7ba2b;
+    transition: color 1s;
+   }
+   
+   .enviospais{
+    text-align: center;
+    width: 100%;
+    
+   
+   }
+   .envio{  
+    /*display: block;
+    margin: auto;
+   width: 100%;
+   }
+   .envio img{
+    width: 600px;
+    height: 200px;
+   }
+
+*/
+
+
+  
